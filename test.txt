@@ -1,0 +1,19 @@
+
+{
+  "cart": [
+            {
+                "id": 3,
+                "name": "Denim Jacket",
+                "price": 1499,
+                "imageUrl": "https://res.cloudinary.com/dcgsu3rat/image/upload/v1759341759/aa1856b9-b7ae-4e0e-98d1-c2d8f0c78c0d.png",
+                "quantity": 2
+            },
+            {
+                "id": 5,
+                "name": "Smart Watch",
+                "price": 4999,
+                "imageUrl": "https://res.cloudinary.com/dcgsu3rat/image/upload/v1759342280/d0ee8777-6f9d-41f8-8692-d1be2650659d.png",
+                "quantity": 1
+            }
+         ]
+}
