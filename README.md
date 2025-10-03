@@ -25,7 +25,7 @@
 
 #### Step 3 : Implement Backend API Endpoints (Without Frontend)
 
-- Open POSTMAN API Testing Tool and run following API Endpoints
+- Open POSTMAN ( API Testing Tool ) and run following API Endpoints
 
   - `GET /products` to fetch all products that are hardcoded
 
